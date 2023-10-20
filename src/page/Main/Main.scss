@@ -1,0 +1,10 @@
+.Main{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Main__column{
+    gap: 15px;
+    display: flex;
+    flex-direction: column;
+}
